@@ -10,7 +10,7 @@
 ## 🔧 Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/saideepakmuvvala/SmartUserIntegration.git
 cd SmartUserIntegration
 dotnet restore
 dotnet build
